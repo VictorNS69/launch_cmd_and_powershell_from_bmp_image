@@ -2,7 +2,7 @@
 
 ## Requirements
 - Python3
-- Pillow (´pip install pillow´)
+- Pillow (`pip install pillow`)
 
 ## How to
 1. Run `python3 cmd.py` and `python3 powershell.sh`
